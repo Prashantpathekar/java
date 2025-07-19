@@ -21,7 +21,6 @@ public class queue {
         for (int i = obj.front; i <= obj.rear; i++) {
             System.out.print(obj.arr[i] + " ");
         }
-}
-    
-    
+}   
+
 }
